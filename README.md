@@ -112,7 +112,7 @@ test=np.array([[1],[1]])
 predict(w1,w2,test)
 ```
  **OUTPUT** :
- ![output](?raw=true)
+ ![output](https://github.com/Sucharithachowdary/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/blob/main/nn1.jpg?raw=true)
 
 ** RESULT**:
 Thus a MLP is implemented for non linear separable problem using Python.
